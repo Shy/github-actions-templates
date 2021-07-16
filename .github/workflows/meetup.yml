@@ -10,8 +10,8 @@ jobs:
       matrix: 
         meetup_group:
           - https://www.meetup.com/Docker-Bangalore
-          - https://www.meetup.com/Docker-Online-Meetup/
-          - https://www.meetup.com/Sydney-Docker-User-Group/
+          - https://www.meetup.com/Docker-Online-Meetup
+          - https://www.meetup.com/Sydney-Docker-User-Group
     steps:
     - uses: actions/checkout@v2
       with:
