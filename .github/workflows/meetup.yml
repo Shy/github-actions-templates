@@ -1,7 +1,7 @@
 #name: Check for New Meetup Interactions and Add to Orbit
 on:
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 jobs:
   comments-workflow:
