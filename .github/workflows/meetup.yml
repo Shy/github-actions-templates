@@ -53,7 +53,7 @@ jobs:
           - Docker-Grenoble
           - Docker-Switzerland
           - Docker-Dallas
-          - Docker-Budapest
+          - Docker-Budapest-Hungary
           - Docker-Delhi
           - Docker-Richmond
           - Docker-Indonesia
