@@ -83,7 +83,7 @@ jobs:
           - Docker-Buenos-Aires
           - Docker-Rio-de-Janeiro
           - Docker-Brno
-          - Docker-Brisbane
+          - Docker-Brisbane-Australia
           - Docker-Orange-County
           - Docker-Montreal
           - Durban-Docker-Meetup
