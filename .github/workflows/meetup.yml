@@ -54,7 +54,7 @@ jobs:
           - Docker-Switzerland
           - Docker-Dallas
           - Docker-Budapest
-          - Delhi-NCR-Docker-User-Group
+          - Docker-Delhi
           - Docker-Richmond
           - Docker-Indonesia
           - Docker-Birmingham
