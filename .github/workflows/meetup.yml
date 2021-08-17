@@ -66,7 +66,7 @@ jobs:
           - Docker-Franken
           - Docker-Santa-Barbara
           - Docker-Santa-Clara
-          - Docker-Córdoba-ARG
+          - Docker-Cordoba-ARG
           - Docker-Singapore  
           - Docker-Mountain-View
           - Docker-Taipei
