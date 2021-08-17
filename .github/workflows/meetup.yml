@@ -9,10 +9,10 @@ jobs:
     strategy:
       matrix: 
         meetup_group:
-          - Docker Online Meetup
-          - Sydney-Docker-User-Group/
+          - Docker-Online-Meetup
+          - Sydney-Docker-User-Group
           - Melbourne-Docker-User-Group
-          - Docker-Las-Vegas/
+          - Docker-Las-Vegas
           - Docker-Bangalore
           - Docker-Randstad
           - Docker-New-York-City
@@ -22,7 +22,7 @@ jobs:
           - Docker-Madrid
           - Docker-Atlanta
           - Docker-Nantes
-          - Docker-Barcelona
+          - Docker-Barcelona-Spain
           - Docker-Belgium
           - Docker-Pune
           - Docker-São-Paulo
