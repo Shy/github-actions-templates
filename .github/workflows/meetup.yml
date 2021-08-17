@@ -180,8 +180,8 @@ jobs:
           - Docker-Zaragoza
           - Docker-Yucatán
           - Docker-Dehradun
-          - Docker-Chandigarh
-          - Docker-Campinas
+          - meetup-group-xKnrgVEy
+          - docker-group-campinas
           - Docker-Islamabad
           - Docker-Colombia
     steps:
