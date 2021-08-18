@@ -63,7 +63,6 @@ jobs:
           - Docker-Hamburg
           - Docker-Hyderabad
           - Docker-Rennes
-          - Docker-Franken
           - Docker-Santa-Barbara
           - Docker-Santa-Clara
           - Docker-Singapore  
@@ -103,7 +102,6 @@ jobs:
           - Docker-Milano
           - Docker-Algeria
           - Docker-Québec
-          - Docker-Glasgow
           - Docker-Charlotte
           - Docker-Istanbul
           - Docker-Madison 
