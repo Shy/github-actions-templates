@@ -172,7 +172,6 @@ jobs:
           - Docker-Porto
           - Docker-São-João-del-Rei
           - Docker-Cochabamba
-          - Docker-Fortaleza
           - Docker-Lucknow
           - Docker-Eskisehir-Province
           - Docker-Zaragoza
