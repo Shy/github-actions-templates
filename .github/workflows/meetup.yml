@@ -104,15 +104,13 @@ jobs:
           - Docker-Québec
           - Docker-Charlotte
           - Docker-Istanbul
-          - Docker-Madison 
-          - Docker-La Paz
+          - Docker-Madison
           - Docker-Novosibirsk
           - Docker-Brasov
           - Docker-Houston
           - Docker-Stockholm
           - Docker-Jamaica-Meetup
           - Docker-Mobile
-          - Docker-Dhahran
           - Docker-Orlando
           - Docker-Aurangabad
           - Docker-Kanpur
