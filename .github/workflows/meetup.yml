@@ -86,7 +86,6 @@ jobs:
           - Docker-Montreal
           - Durban-Docker-Meetup
           - Docker-Marseille
-          - Docker-Logroño
           - Docker-Geneva
           - Docker-Lille
           - Docker-Manila
@@ -149,7 +148,6 @@ jobs:
           - Docker-Beirut
           - Docker-Des-Moines
           - Docker-Panama
-          - Docker-Malmö
           - Docker-Ahmedabad
           - Docker-Roma
           - Docker-Johannesburg
@@ -169,7 +167,6 @@ jobs:
           - Docker-Porto
           - Docker-São-João-del-Rei
           - Docker-Cochabamba
-          - Docker-Lucknow
           - Docker-Eskisehir-Province
           - Docker-Zaragoza
           - Docker-Yucatán
