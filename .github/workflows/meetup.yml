@@ -112,7 +112,6 @@ jobs:
           - Docker-Stockholm
           - Docker-Jamaica-Meetup
           - Docker-Mobile
-          - Docker-Hermosillo
           - Docker-Dhahran
           - Docker-Orlando
           - Docker-Aurangabad
