@@ -103,7 +103,6 @@ jobs:
           - Docker-Québec
           - Docker-Charlotte
           - Docker-Istanbul
-          - Docker-Madison
           - Docker-Novosibirsk
           - Docker-Brasov
           - Docker-Houston
