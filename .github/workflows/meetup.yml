@@ -41,7 +41,6 @@ jobs:
           - Docker-Colorado-Springs
           - Docker-Denver
           - Docker-Edinburgh
-          - Docker-Portland
           - Docker-Timisoara
           - Docker-Indianapolis
           - Docker-Saigon
