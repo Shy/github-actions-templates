@@ -57,7 +57,6 @@ jobs:
           - Docker-Richmond
           - Docker-Indonesia
           - Docker-Birmingham
-          - Docker-Prague
           - Docker-Minneapolis
           - Docker-Hamburg
           - Docker-Hyderabad
@@ -90,7 +89,6 @@ jobs:
           - Docker-Wellington
           - Docker-Milano
           - Docker-Algeria
-          - Docker-Québec
           - Docker-Istanbul
           - Docker-Novosibirsk
           - Docker-Brasov
